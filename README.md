@@ -53,3 +53,7 @@ npm install -g bun # the last `npm` command you'll ever need
    ```bash
    bun i
    ```
+   1. **Run the Server**
+   ```bash
+   bun run dev
+   ```
