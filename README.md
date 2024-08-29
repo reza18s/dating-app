@@ -49,7 +49,7 @@ npm install -g bun # the last `npm` command you'll ever need
 
 ## Running the App
 
-1. **Download Dependencies**
+ 1. **Download Dependencies**
    ```bash
    bun i
    ```
